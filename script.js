@@ -1,1 +1,5 @@
-
+ul{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
