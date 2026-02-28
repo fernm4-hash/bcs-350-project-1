@@ -12,9 +12,11 @@
   list-style: none;
   margin: 0px;
   padding: 0px;
-  color: blue;
-  
-  
+}
+
+.navbar a {
+  color: white;
+  font-size: 15px;
 }
 
 nav{background-color: #5C3A2E;}
