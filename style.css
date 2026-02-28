@@ -23,5 +23,9 @@
   text-decoration: none;
 }
 
+.navbar a:first-child{
+  font-size: 25px;
+} 
+
 nav{background-color: #5C3A2E;}
 
