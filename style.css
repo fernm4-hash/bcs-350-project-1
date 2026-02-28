@@ -66,6 +66,8 @@ nav{background-color: #5C3A2E;}
 .bottle {
   height: 600px;
   width: 500px;
-  
+}
+.newBodyWash{
+  display: flex;
 }
 
