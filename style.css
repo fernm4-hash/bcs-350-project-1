@@ -24,7 +24,7 @@
   
 }
 
-.navbar a:first-child{
+.navbar .siteName{
   font-size: 59px;
 } 
 
