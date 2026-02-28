@@ -42,6 +42,7 @@ nav{background-color: #5C3A2E;}
   border-radius: 20px;
   color: white;
   display: flex;
+  justify-content: center;
   
 
 }
