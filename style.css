@@ -32,21 +32,23 @@ body{ margin:0px;}
 nav{background-color: #5C3A2E;}
 
 .actionItem{
-  border: 5px solid #5C3A2E;
+  border: 10px solid #5C3A2E;
   font-size: 80px;
   text-align: center;
   font-weight: bold;
   box-shadow: 5px 5px 8px gray;
   margin:50px;
-  height: 400px;
-  width: 1000px;
+  height: 200px;
+  width: 1500px;
+  background-color: #5C3A2E;
+  border-radius: 5px
+  
 
 }
 
 .missionState{
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
-  
 }
 
