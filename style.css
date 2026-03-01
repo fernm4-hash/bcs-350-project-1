@@ -72,3 +72,6 @@ nav{background-color: #5C3A2E;}
   justify-content: space-around;
 }
 
+h1{
+  border-bottom: 2px solid #5C3A2E;
+}
