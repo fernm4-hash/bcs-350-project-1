@@ -83,5 +83,6 @@ h1{
 .whereLogo{
   display:flex;
   justify-content: space-around;
+  font-size:20px;
   
 }
