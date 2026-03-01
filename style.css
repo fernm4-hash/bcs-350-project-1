@@ -75,3 +75,8 @@ nav{background-color: #5C3A2E;}
 h1{
   border-bottom: 2px solid #5C3A2E;
 }
+
+.whereImg{
+  width: 200px;
+  height:200px;
+}
