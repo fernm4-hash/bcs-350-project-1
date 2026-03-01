@@ -3,7 +3,10 @@
   font-family: "Poppins", serif; 
 }
 
-body{ margin:0px;}
+body{ 
+  margin:0px;
+  background-color: #FAFAFA;
+}
 
 
 .navbar{
