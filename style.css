@@ -80,3 +80,8 @@ h1{
   width: 200px;
   height:200px;
 }
+.whereLogo{
+  display:flex;
+  justify-content: space-around;
+  
+}
