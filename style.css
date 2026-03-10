@@ -1,4 +1,4 @@
-/* On every page everything */
+/* On every page */
 *{
   font-family: "Poppins", serif; 
 }
@@ -27,14 +27,12 @@
 
 nav{background-color: #5C3A2E;}
 
-
-
 body{ 
   margin:0px;
 }
 
 
-
+/* On Main Page */
 
 .actionItem{
   border: 10px solid #5C3A2E;
@@ -81,6 +79,7 @@ h1{
   border-bottom: 2px solid #5C3A2E;
 }
 
+/* Where Page*/
 .whereImg{
   width: 200px;
   height:200px;
