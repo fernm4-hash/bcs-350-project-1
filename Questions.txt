@@ -45,9 +45,11 @@ Minimalist
 2. What color scheme will you use and why?
 Mainly white with small accents of pastels. I want the website to mimic the bottles. The bottle are going to be mainly white with accents of pastel on theme with the sent.
 3. What fonts will you use for headings and body text?
+I will be using the popins font
 4. How will spacing and layout improve readability?
 6. What visual hierarchy will guide the user’s attention?
 7. How will consistency be maintained across pages?
+There will be the same colors and same layout across the pages
 8. What icons will you use?
 9. What emotions should the design evoke in users?
 10. How will accessibility be considered (contrast, font size, etc.)?
@@ -59,7 +61,9 @@ Different bodywash company's like dove and native
 PART 3: INTERACTIVITY (Answer ALL questions, add your own if necessary)
 
 1. What interactive elements will your site include (forms, buttons, menus, etc.)?
+There is going to be a nav bar at the top
 2. How will users navigate the website?
+There is going to be a nav bar at the top. The buttons will be shop, apout, where to find, and home
 3. Will there be form validation or user feedback? Explain.
 4. What JavaScript functionality will you implement?
 5. How does interactivity improve user experience?
