@@ -31,6 +31,12 @@ body{
   margin:0px;
 }
 
+h1{
+  border-bottom: 2px solid #5C3A2E;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
 
 /* On Main Page */
 
@@ -75,9 +81,7 @@ body{
   justify-content: space-around;
 }
 
-h1{
-  border-bottom: 2px solid #5C3A2E;
-}
+
 
 /* Where Page*/
 .whereImg{
