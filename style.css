@@ -139,7 +139,6 @@ h1{
 
 .target, .walmart{
   transition: 0.3s;
-  box-shadow: 3px 3px 8px gray;
 }
 .target a, .walmart a{
    color: black;
