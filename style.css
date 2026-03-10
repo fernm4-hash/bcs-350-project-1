@@ -123,6 +123,8 @@ h1{
   justify-content: space-around;
   font-size:40px;
   text-align: center;
+  color: white;
+  text-decoration: none;
   
 }
 .whereText{
@@ -132,9 +134,11 @@ h1{
 
 .target:hover {
    transform: translateY(-5px) scale(1.1);
+  color: red;
 }
 .walmart:hover {
    transform: translateY(-5px) scale(1.1);
+  color: yellow;
 }
 .target{
   transition: 0.5s;
