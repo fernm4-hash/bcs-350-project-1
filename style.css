@@ -63,12 +63,12 @@ body{
 
 .sweetCream{
   font-size: 50px;
-  mmargin: 2px;
+  margin: 2px;
 }
 
 .bottle {
-  height: 600px;
-  width: 500px;
+  height: 300px;
+  width: auto;
 }
 .newBodyWash{
   display: flex;
