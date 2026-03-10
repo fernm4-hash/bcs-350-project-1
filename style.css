@@ -116,7 +116,8 @@ h1{
 /* Where Page*/
 .whereImg{
   width: 200px;
-  height:200px;
+  height:auto;
+  box-shadow: 3px 3px 8px gray;
 }
 .whereLogo{
   display:flex;
@@ -137,18 +138,18 @@ h1{
 }
 
 .target, .walmart{
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .target a, .walmart a{
    color: black;
   text-decoration: none;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .target a:hover {
-  color: red;
+  color: #CC0001;
 }
 
 .walmart a:hover {
-  color: yellow;
+  color: #FFC220;
 }
 
