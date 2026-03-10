@@ -18,7 +18,14 @@
 }
 .navbar a:visited {
   color: white;
-  
+}
+.navbar a:hover {
+   transform: scale(1.05) ;
+}
+
+.navbar a:active {
+   transform: scale(0.95);
+   background: radial-gradient(#ddd, #999);
 }
 
 .navbar .siteName{
@@ -103,6 +110,8 @@ h1{
   text-align: center;
   font-size: 25px;
 }
+
+
 
 
 
