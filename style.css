@@ -21,13 +21,10 @@
   color: white;
 }
 .navbar a:hover {
-   transform: scale(1.05) ;
+   transform: scale(1.1) ;
 }
 
-.navbar a:active {
-   transform: scale(0.95);
-   background: radial-gradient(#ddd, #999);
-}
+
 
 .navbar .siteName{
   font-size: 50px;
