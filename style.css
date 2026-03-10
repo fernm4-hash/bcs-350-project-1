@@ -74,7 +74,16 @@ h1{
 
 .name{
   font-size: 50px;
-  margin: 2px;
+  margin: 5px;
+}
+
+.description{
+  font-size: 18px;
+  max-width: 400px
+}
+.price{
+  font-size: 22px;
+  font-weight: bold;
 }
 
 .bottle {
@@ -83,7 +92,8 @@ h1{
 }
 .product{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items:center;
 }
 
 
