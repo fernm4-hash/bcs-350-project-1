@@ -22,6 +22,7 @@
 }
 .navbar a:hover {
    transform: translateY(-5px) scale(1.1);
+  color: #FFD8A8;
 }
 
 
