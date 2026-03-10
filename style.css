@@ -136,14 +136,14 @@ h1{
    transform: translateY(-5px) scale(1.1);
   
 }
-.target p:hover {
+.target a:hover {
   color: red;
 }
 .walmart:hover {
    transform: translateY(-5px) scale(1.1);
   
 }
-.walmart p:hover {
+.walmart a:hover {
   color: yellow;
 }
 .target{
