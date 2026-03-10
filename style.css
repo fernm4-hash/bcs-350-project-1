@@ -131,6 +131,6 @@ h1{
   font-size: 25px;
 }
 
-.whereToFind:hover {
+.whereLogo:hover {
    transform: translateY(-5px) scale(1.1);
 }
