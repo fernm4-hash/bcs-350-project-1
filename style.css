@@ -123,7 +123,6 @@ h1{
   justify-content: space-around;
   font-size:40px;
   text-align: center;
-  color: white;
   text-decoration: none;
   
 }
@@ -132,32 +131,24 @@ h1{
   font-size: 25px;
 }
 
-.target:hover {
+.target:hover, .walmart:hover {
    transform: translateY(-5px) scale(1.1);
   
+}
+
+.target, .walmart{
+  transition: 0.5s;
+}
+.target a, .walmart a{
+   color: black;
+  text-decoration: none;
+  transition: 0.5s;
 }
 .target a:hover {
   color: red;
 }
-.walmart:hover {
-   transform: translateY(-5px) scale(1.1);
-  
-}
+
 .walmart a:hover {
   color: yellow;
 }
-.target{
-  transition: 0.5s;
-}
-.target a{
-   color: black;
-  text-decoration: none;
-}
 
-.walmart{
-  transition: 0.5s;
-}
-.walmart a{
-   color: black;
-  text-decoration: none;
-}
