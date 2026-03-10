@@ -15,13 +15,12 @@
   color: white;
   font-size: 30px;
   text-decoration: none;
-  transition: 0.2s;
+  transition: 0.5s;
 }
 .navbar a:visited {
   color: white;
 }
 .navbar a:hover {
-   transform: translateY(-5px) scale(1.1);
   color: #8E6152;
 }
 
@@ -131,6 +130,16 @@ h1{
   font-size: 25px;
 }
 
-.whereLogo:hover {
+.target:hover {
    transform: translateY(-5px) scale(1.1);
+}
+.walmart:hover {
+   transform: translateY(-5px) scale(1.1);
+}
+.target{
+  transition: 0.5s;
+}
+
+.walmart{
+  transition: 0.5s;
 }
