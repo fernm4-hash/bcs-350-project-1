@@ -1,13 +1,7 @@
-
+/* On every page everything */
 *{
   font-family: "Poppins", serif; 
 }
-
-body{ 
-  margin:0px;
-}
-
-
 .navbar{
   display: flex;
   justify-content: space-around;
@@ -32,6 +26,15 @@ body{
 } 
 
 nav{background-color: #5C3A2E;}
+
+
+
+body{ 
+  margin:0px;
+}
+
+
+
 
 .actionItem{
   border: 10px solid #5C3A2E;
