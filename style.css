@@ -21,7 +21,7 @@
   color: white;
 }
 .navbar a:hover {
-   transform: scale(1.1);
+   transform: translateY(-5px) scale(1.1);
 }
 
 
@@ -128,4 +128,8 @@ h1{
 .whereText{
   text-align: center;
   font-size: 25px;
+}
+
+.whereToFind:hover {
+   transform: translateY(-5px) scale(1.1);
 }
