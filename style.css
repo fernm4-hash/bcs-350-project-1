@@ -117,7 +117,6 @@ h1{
 .whereImg{
   width: 200px;
   height:auto;
-  box-shadow: 3px 3px 8px gray;
 }
 .whereLogo{
   display:flex;
@@ -125,6 +124,7 @@ h1{
   font-size:40px;
   text-align: center;
   text-decoration: none;
+  box-shadow: 3px 3px 8px gray;
   
 }
 .whereText{
