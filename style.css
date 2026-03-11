@@ -105,13 +105,13 @@ h1{
 
 /* Shop Page*/
 .bottle{
-  width: 400px;
+  width: 300px;
   height:auto;
 }
 .product{
   display:flex;
   justify-content: space-around;
-  font-size:40px;
+  font-size:22px;
   text-align: center;
   text-decoration: none;
   
