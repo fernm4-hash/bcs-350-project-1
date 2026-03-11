@@ -160,7 +160,7 @@ h1{
 
 
 .productBottle{
-  width:300px;
+  width:500px;
   height:auto;
   margin-top:50px;
 }
@@ -221,6 +221,7 @@ button:hover {
   text-align:left;
   width:auto;
   cursor: pointer;
+  font-size: 30px;
   
 }
 .rating label:hover, .rating label:hover ~ label{
