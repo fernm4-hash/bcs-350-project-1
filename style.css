@@ -151,11 +151,14 @@ h1{
 
 .productPage{
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  align-items:center;
 }
 
-.productImg{
-  width:auto
+
+
+.product{
+  width:auto;
   height:300px;
 }
 
