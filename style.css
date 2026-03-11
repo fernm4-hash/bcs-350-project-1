@@ -202,6 +202,25 @@ button:hover {
     margin-bottom: 12px;
   }
 
+.rating input{
+  display:none;
+}
+
+.rating label{
+  font-size 30px;
+}
+
+.rating input:checked + label{
+  color:gold;
+}
+
+.rating label:hover{
+  color:gold;
+}
+
+.rating{
+  margin-bottom: 12px;
+}
 
 /* About Page*/
 .aboutText{
