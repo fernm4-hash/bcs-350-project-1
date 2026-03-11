@@ -149,7 +149,10 @@ h1{
 
 /* For Each Body Wash Page*/
 
-
+.productPage{
+  display: flex;
+  justify-content: center;
+}
 
 
 
