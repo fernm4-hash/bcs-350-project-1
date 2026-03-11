@@ -85,10 +85,7 @@ h1{
   font-weight: bold;
 }
 
-.bottle {
-  height: 400px;
-  width: auto;
-}
+
 .newProduct{
   display: flex;
   justify-content: space-between;
