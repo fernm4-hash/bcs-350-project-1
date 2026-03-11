@@ -186,7 +186,7 @@ h1{
 /* Where Page*/
 .whereImg{
   width: 300px;
-  height: 500px;
+  height: autopx;
 }
 .whereLogo{
   display:flex;
