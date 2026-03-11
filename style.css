@@ -222,6 +222,7 @@ button:hover {
 
 .rating label{
   font-size: 30px;
+  cursor: pointer
   
 }
 .rating label:hover, .rating label:hover ~ label{
