@@ -185,7 +185,7 @@ input[type=text], input[type=email] {
 
 button {
    width: 200px;
-   background-color: #09f;
+   background-color: #SC3A2E;
    color: white;
    padding: 15px;
    margin: 10px 0;
@@ -194,8 +194,13 @@ button {
    cursor: pointer;
 }
 button:hover {
-   background-color: #07d;
+   background-color: #8E6152;
 }
+
+  form{
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
 
 
 /* About Page*/
