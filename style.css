@@ -212,6 +212,7 @@ button:hover {
 
 .rating{
   display:flex;
+  flex-direction:row-reverse;
   gap:3px;
 }
 .rating input{
