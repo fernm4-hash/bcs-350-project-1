@@ -210,6 +210,10 @@ button:hover {
     margin-bottom: 12px;
   }
 
+.rating{
+  display:flex;
+  gap:3px;
+}
 .rating input{
   display:none;
 }
@@ -218,19 +222,17 @@ button:hover {
   font-size: 30px;
   
 }
-
-.rating input:checked + label{
+.rating label:hover, .rating label:hover ~ label{
   color:gold;
 }
 
-.rating label:hover{
+
+.rating input:checked ~ label{
   color:gold;
 }
 
-.rating{
-  display:flex;
-  gap:3px;
-}
+
+
 
 /* About Page*/
 .aboutText{
