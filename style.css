@@ -157,6 +157,9 @@ h1{
   align-items:center;
 }
 
+.productInfo{
+  max-width: 500px
+}
 
 
 .product{
