@@ -118,15 +118,15 @@ h1{
   
 }
 
-.sweetCream:hover, .mallow:hover, .pinaColada:hover, orange:hover {
+.sweetCream:hover, .mallow:hover, .pinaColada:hover, .orange:hover {
    transform: translateY(-5px) scale(1.1);
   
 }
 
-.sweetCream, .mallow, .pinaColada, orange{
+.sweetCream, .mallow, .pinaColada, .orange{
   transition: 0.3s;
 }
-.sweetCream a, .mallow a, .pinaColada a, orange a{
+.sweetCream a, .mallow a, .pinaColada a, .orange a{
    color: black;
   text-decoration: none;
   transition: 0.3s;
