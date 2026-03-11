@@ -147,8 +147,22 @@ h1{
 }
 
 
+/* For Each Body Wash Page*/
 
+.productImg{
+  width: 400px;
+  height: auto;
+}
 
+.productPage{
+  display:flex;
+  justify-content: space-around;
+  font-size:22px;
+  text-align: center;
+  text-decoration: none;
+  
+  
+}
 
 
 
