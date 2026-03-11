@@ -118,28 +118,31 @@ h1{
   
 }
 
-.target:hover, .walmart:hover, .amazon:hover {
+.sweetCream:hover, .mallow:hover, .pinaColada:hover, orange:hover {
    transform: translateY(-5px) scale(1.1);
   
 }
 
-.target, .walmart, .amazon{
+.sweetCream, .mallow, .pinaColada, orange{
   transition: 0.3s;
 }
-.target a, .walmart a, .amazon a{
+.sweetCream a, .mallow a, .pinaColada a, orange a{
    color: black;
   text-decoration: none;
   transition: 0.3s;
 }
-.target a:hover {
+.sweetCream a:hover {
   color: #CC0001;
 }
 
-.walmart a:hover {
+.mallow a:hover {
   color: #FFC220;
 }
 
-.amazon a:hover {
+.pinaColada a:hover {
+  color: #FF9900;
+}
+.orange a:hover {
   color: #FF9900;
 }
 
