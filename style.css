@@ -89,7 +89,7 @@ h1{
   height: 400px;
   width: auto;
 }
-.product{
+.newProduct{
   display: flex;
   justify-content: space-between;
   align-items:center;
