@@ -110,6 +110,7 @@ h1{
 }
 .product{
   display:flex;
+  gap: 20px;
   justify-content: space-around;
   font-size:22px;
   text-align: center;
@@ -151,13 +152,14 @@ h1{
 
 .productPage{
   display: flex;
+  gap: 20px;
   justify-content: space-around;
   align-items:center;
 }
 
 .productImg{
-  display:flex;
-  justify-content:center;
+  display: flex;
+  justify-content: center;
 }
 
 
