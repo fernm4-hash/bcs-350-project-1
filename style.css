@@ -111,7 +111,7 @@ h1{
 .product{
   display:flex;
   gap: 20px;
-  justify-content: space-around;
+  justify-content: space-evenly;
   font-size:22px;
   text-align: center;
   text-decoration: none;
