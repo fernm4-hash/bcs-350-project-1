@@ -150,7 +150,7 @@ h1{
 /* For Each Body Wash Page*/
 
 .productImg{
-  width: 300px;
+  width: 200px;
   height: auto;
 }
 
@@ -177,8 +177,8 @@ h1{
 
 /* Where Page*/
 .whereImg{
-  width: 200px;
-  height:auto;
+  width: 300px;
+  height: 500px;
 }
 .whereLogo{
   display:flex;
