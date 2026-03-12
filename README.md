@@ -56,17 +56,20 @@ There will be the same colors and same layout across the pages
 11. What inspiration sources influenced your design?
 Different bodywash company's like dove and native
 12. Describe the layout of the homepage and build the wireframe
+    The home page will have a nav bar at the top, followed by the brands tag line "Smell Sweet", then out mission statement, then at the bottom we are featuring a new Body Wash
 
 ---
 PART 3: INTERACTIVITY (Answer ALL questions, add your own if necessary)
 
 1. What interactive elements will your site include (forms, buttons, menus, etc.)?
-There is going to be a nav bar at the top
+There is going to be a nav bar at the top, 
 2. How will users navigate the website?
 There is going to be a nav bar at the top. The buttons will be shop, apout, where to find, and home
 3. Will there be form validation or user feedback? Explain.
-4. What JavaScript functionality will you implement?
-5. How does interactivity improve user experience?
+   Yes at each of the body wash pages the user can leave a review of the product. 
+5. What JavaScript functionality will you implement?
+   none
+7. How does interactivity improve user experience?
 
 ---
 RUBRIC (100 POINTS TOTAL)
